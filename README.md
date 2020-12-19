@@ -1,4 +1,4 @@
-### Hi, I'm Power Lin 👋
+# Hi, I'm Power Lin 👋
 
 <br>
 
