@@ -7,6 +7,12 @@
 ![bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&label=BILIBILI&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D349536948&color=282c34&longCache=true?&style=for-the-badge)
 
 
+- 🌱 Current student at *Guangzhou College of South China University of Technology* (GCU)
+- 🍻 Captain of *GCU Robot Team* (WildWolf Team)
+- ⚡ Embedded hardware developer
+- 📫 Contact me at [me@wiki-power.com](mailto:me@wiki-power.com)
+- 🔭 Here's my personal knowledge base: [Power's Wiki](https://wiki-power.com)
+
 
 
 <!--
