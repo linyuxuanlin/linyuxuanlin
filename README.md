@@ -1,6 +1,8 @@
 ## Hi, I'm Power Lin 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bilibilifmk&show_icons=true&title_color=ff2686&icon_color=FB7299&text_color=FB7299&bg_color=ffffff&hide_title=false&locale=cn" />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linyuxuanlin&hide=contribs,prs)
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlinyuxuanlin&labelColor=555555&color=282c34&longCache=true?&style=for-the-badge)](https://github.com/linyuxuanlin)
 [![知乎](https://img.shields.io/badge/dynamic/json?color=282c34&labelColor=0084ff&label=ZHIHU&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dlinyuxuanlin&longCache=true?&style=for-the-badge)](https://www.zhihu.com/people/linyuxuanlin)
