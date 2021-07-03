@@ -1,7 +1,7 @@
 ## Hi, I'm Power Lin 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linyuxuanlin?count_private=true&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=contribs,prs)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linyuxuanlin)
 
