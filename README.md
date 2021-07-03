@@ -1,7 +1,7 @@
 ## Hi, I'm Power Lin 👋
 
 
-![Power's GitHub stats](https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true&locale=cn)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true" />
 
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlinyuxuanlin&labelColor=555555&color=282c34&longCache=true?&style=for-the-badge)](https://github.com/linyuxuanlin)
