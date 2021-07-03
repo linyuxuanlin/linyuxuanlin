@@ -1,13 +1,15 @@
 ## Hi, I'm Power Lin 👋
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true" />
 
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlinyuxuanlin&labelColor=555555&color=282c34&longCache=true?&style=for-the-badge)](https://github.com/linyuxuanlin)
 [![知乎](https://img.shields.io/badge/dynamic/json?color=282c34&labelColor=0084ff&label=ZHIHU&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dlinyuxuanlin&longCache=true?&style=for-the-badge)](https://www.zhihu.com/people/linyuxuanlin)
 [![sspai](https://img.shields.io/badge/dynamic/json?label=SSPAI&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dsspai%26queryKey%3Dpower&color=282c34&labelColor=d71a1b&longCache=true?&style=for-the-badge)](https://sspai.com/u/power/)
 [![bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&label=BILIBILI&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D349536948&color=282c34&longCache=true?&style=for-the-badge)](https://space.bilibili.com/349536948)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true" />
+
 
 - 🌱 Current student at *Guangzhou College of South China University of Technology* (GCU)
 - 🍻 Captain of *GCU Robot Team* (WildWolf Team)
