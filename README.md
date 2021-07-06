@@ -8,7 +8,6 @@
 [![sspai](https://img.shields.io/badge/dynamic/json?label=SSPAI&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dsspai%26queryKey%3Dpower&color=282c34&labelColor=d71a1b&longCache=true?&style=for-the-badge)](https://sspai.com/u/power/)
 [![bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&label=BILIBILI&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D349536948&color=282c34&longCache=true?&style=for-the-badge)](https://space.bilibili.com/349536948)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true" />
 
 
 - 🌱 Current student at *Guangzhou College of South China University of Technology* (GCU)
@@ -16,7 +15,11 @@
 - ⚡ Embedded hardware developer
 - 📫 Contact me at [me@wiki-power.com](mailto:me@wiki-power.com)
 - 🔭 Welcome to my knowledge base: [Power's Wiki](https://wiki-power.com)
+<!--
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true" />
+-->
 
+<img src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true" />
 
 <!--
 **linyuxuanlin/linyuxuanlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
