@@ -11,8 +11,8 @@
 
 
 - 🌱 Current student at *Guangzhou College of South China University of Technology* (GCU)
-- 🍻 Captain of *GCU Robot Team* (WildWolf Team)
 - ⚡ Embedded hardware/electronic engineer
+- 🍻 Former captain of *GCU Robot Team* (WildWolf Team)
 - 📫 Contact me at [me@wiki-power.com](mailto:me@wiki-power.com)
 - 🔭 Welcome to my knowledge base: [Power's Wiki](https://wiki-power.com)
 <!--
