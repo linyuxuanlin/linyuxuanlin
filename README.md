@@ -10,9 +10,7 @@
 
 
 
-- 🌱 Current student at *Guangzhou College of South China University of Technology* (GCU)
 - ⚡ Embedded hardware/electronic engineer
-- 🍻 Former captain of *GCU Robot Team* (WildWolf Team)
 - 📫 Contact me at [me@wiki-power.com](mailto:me@wiki-power.com)
 - 🔭 Welcome to my knowledge base: [Power's Wiki](https://wiki-power.com)
 <!--
@@ -26,6 +24,9 @@
 **linyuxuanlin/linyuxuanlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
+- 🌱 Current work at 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
