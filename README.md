@@ -17,10 +17,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true" />
 -->
 
+[![badge](https://img.shields.io/badge/Power's%20Nav-导航站-34ABE0?&style=flat-square)](https://nav.wiki-power.com/)
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true)
 
 <!--
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true)
+
+
 **linyuxuanlin/linyuxuanlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
