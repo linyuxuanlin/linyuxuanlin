@@ -14,6 +14,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true" />
 -->
 
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true)
+
+
 [![GitHub](https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlinyuxuanlin&labelColor=555555&color=282c34&longCache=true?&style=flat-square)](https://github.com/linyuxuanlin)
 [![知乎](https://img.shields.io/badge/dynamic/json?color=282c34&labelColor=0084ff&label=Zhihu&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dlinyuxuanlin&longCache=true?&style=flat-square)](https://www.zhihu.com/people/linyuxuanlin)
 [![sspai](https://img.shields.io/badge/dynamic/json?label=sspai&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dsspai%26queryKey%3Dpower&color=282c34&labelColor=d71a1b&longCache=true?&style=flat-square)](https://sspai.com/u/power/)
@@ -22,7 +25,6 @@
 
 
 <!--
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true)
 
 
 **linyuxuanlin/linyuxuanlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
