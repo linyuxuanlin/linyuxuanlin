@@ -17,7 +17,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true" />
 -->
 
-[![badge](https://img.shields.io/badge/Power's%20Nav-导航站-34ABE0?&style=flat-square)](https://nav.wiki-power.com/)
+[![badge](https://img.shields.io/badge/Power's%20Nav-34ABE0-导航站?&style=flat-square)](https://nav.wiki-power.com/)
 
 
 <!--
