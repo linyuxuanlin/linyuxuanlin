@@ -20,6 +20,7 @@
 [![badge](https://img.shields.io/badge/知识库-Wiki-34ABE0?&style=flat-square)](https://nav.wiki-power.com/)
 [![badge](https://img.shields.io/badge/友链%20%26%20导航站-Nav-yellow?&style=flat-square)](https://nav.wiki-power.com/)
 [![badge](https://img.shields.io/badge/书摘-Digest-green?&style=flat-square)](https://nav.wiki-power.com/)
+[![badge](https://img.shields.io/badge/奇思妙想-Nonsense-orange?&style=flat-square)](https://nonsense.wiki-power.com/)
 
 
 <!--
