@@ -21,7 +21,7 @@
 [![badge](https://img.shields.io/badge/友链%20%26%20导航站-Nav-yellow?&style=flat-square)](https://nav.wiki-power.com/)
 [![badge](https://img.shields.io/badge/书摘-Digest-green?&style=flat-square)](https://nav.wiki-power.com/)
 [![badge](https://img.shields.io/badge/奇思妙想-Nonsense-orange?&style=flat-square)](https://nonsense.wiki-power.com/)
-[![badge](https://img.shields.io/badge/硬件作品集-Works-FF69B4?&style=flat-square)](https://nonsense.wiki-power.com/)
+[![badge](https://img.shields.io/badge/硬件作品集-Works-a5b0ed?&style=flat-square)](https://works.wiki-power.com/)
 
 
 <!--
