@@ -7,8 +7,6 @@
 [![badge](https://img.shields.io/badge/奇思妙想-Nonsense-orange?&style=flat-square)](https://nonsense.wiki-power.com/)
 [![badge](https://img.shields.io/badge/硬件作品集-Works-a5b0ed?&style=flat-square)](https://works.wiki-power.com/)
 
-<a href="https://works.wiki-power.com/" target="_blank"> ![badge](https://img.shields.io/badge/硬件作品集-Works-a5b0ed?&style=flat-square)</a>
-
 - ⚡ I'm an embedded hardware/electronic engineer
 - 📫 Contact me at [me@wiki-power.com](mailto:me@wiki-power.com)
 - 🔭 Welcome to my knowledge base: [Power's Wiki](https://wiki-power.com)
