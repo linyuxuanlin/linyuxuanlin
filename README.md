@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(个人网站出现了故障，请访问临时站点：https://mkdocs.wiki-power.com/)
+(个人网站部署出现故障，请访问临时站点：https://linyuxuanlin.github.io/Wiki_MkDocs/)
