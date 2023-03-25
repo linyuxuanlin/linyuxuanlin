@@ -44,4 +44,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(个人网站部署出现故障，请访问临时站点：https://linyuxuanlin.github.io/Wiki_MkDocs/)
