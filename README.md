@@ -11,7 +11,7 @@
 - 📫 Contact me at [me@wiki-power.com](mailto:me@wiki-power.com)
 - 🔭 Welcome to my knowledge base: [Power's Wiki](https://wiki-power.com)
 <!--
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true&hide_rank=true" />
 -->
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=linyuxuanlin&count_private=true&hide=issues,contribs&show_icons=true)
