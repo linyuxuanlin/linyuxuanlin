@@ -7,7 +7,7 @@
 [![badge](https://img.shields.io/badge/只言片语-Memos-orange?&style=flat-square)](https://memos.wiki-power.com/)
 [![badge](https://img.shields.io/badge/硬件作品集-Works-a5b0ed?&style=flat-square)](https://works.wiki-power.com/)
 
-- ⚡ I'm an embedded hardware/electronic engineer
+- ⚡ I'm a semiconductor-ATE / embedded-hardware engineer
 - 📫 Contact me at [me@wiki-power.com](mailto:me@wiki-power.com)
 - 🔭 Welcome to my knowledge base: [Power's Wiki](https://wiki-power.com)
 <!--
