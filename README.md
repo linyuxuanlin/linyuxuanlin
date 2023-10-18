@@ -1,4 +1,4 @@
-## Hi, I'm Power Lin 👋
+## Hi, I'm Power 👋
 
 
 [![badge](https://img.shields.io/badge/知识库-Wiki-34ABE0?&style=flat-square)](https://wiki-power.com/)
